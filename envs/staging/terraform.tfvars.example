@@ -1,0 +1,3 @@
+region               = "us-west-2"
+cluster_name         = "platform-staging"
+admin_principal_arns = ["arn:aws:iam::111122223333:role/AWSReservedSSO_AdministratorAccess_example"]
